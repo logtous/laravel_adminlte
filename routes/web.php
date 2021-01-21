@@ -65,10 +65,10 @@ Route::resource('permission', 'PermissionController');
 /**
  *  Login Log
  */
-Route::resource('login_log', 'LoginLogController');
+Route::resource('login_log', 'LoginLogController', ['except'=> ['store', 'show', 'update', 'create', 'edit']]);
 
 
 /**
  *  Operate Log
  */
-Route::resource('operate_log', 'OperateLogController');
+Route::resource('operate_log', 'OperateLogController', ['except'=> ['store', 'show', 'update', 'create', 'edit']]);

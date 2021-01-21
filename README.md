@@ -10,10 +10,12 @@ LaravelAdminlte is a backend admin panel with adminlte theme based on laravel fr
 5. Run `php artisan migrate --seed` 
 
 ## Backend admin url
->`http://laravel_adminlte.test`
+[http://laravel_adminlte.test](http://laravel_adminlte.test)
+
 account: `laravel_adminlte@logtous.com`
+
 password: `12345678`
 
 
 ## Adminlte Examples
-http://laravel_adminlte.test/adminlte/index
+[http://laravel_adminlte.test/adminlte/index](http://laravel_adminlte.test/adminlte/index)

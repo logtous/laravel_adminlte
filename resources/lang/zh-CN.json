@@ -94,5 +94,7 @@
   "system.login_log": "登录日志",
   "system.login_log.destroy": "删除日志",
   "system.operate_log": "操作日志",
-  "system.operate_log.destroy": "删除日志"
+  "system.operate_log.destroy": "删除日志",
+  "system.login_log.index": "日志详情",
+  "system.operate_log.index": "日志详情"
 }
