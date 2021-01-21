@@ -23,5 +23,7 @@
   "system.login_log": "Login Log",
   "system.login_log.destroy": "Login Log Delete",
   "system.operate_log": "Operate Log",
-  "system.operate_log.destroy": "Operate Log Delete"
+  "system.operate_log.destroy": "Operate Log Delete",
+  "system.login_log.index": "Login Log Detail",
+  "system.operate_log.index": "Operate Log Detail"
 }
