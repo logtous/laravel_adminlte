@@ -8,7 +8,12 @@ LaravelAdminlte is a backend admin panel with adminlte theme based on laravel fr
 3. Run `sudo chgrp -R www-data storage bootstrap/cache && sudo chmod -R ug+rwx storage bootstrap/cache`
 4. Create DB: `mysql -hlocalhost -uroot -psecret -e "CREATE DATABASE laravel  DEFAULT CHARSET utf8mb4 COLLATE utf8mb4_general_ci;"`
 5. Run `php artisan migrate --seed` 
-6. Home url: `http://laravel_adminlte.test`
+
+## Backend admin url
+>`http://laravel_adminlte.test`
+account: `laravel_adminlte@logtous.com`
+password: `12345678`
+
 
 ## Adminlte Examples
 http://laravel_adminlte.test/adminlte/index
